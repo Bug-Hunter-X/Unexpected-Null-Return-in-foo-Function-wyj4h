@@ -1,0 +1,1 @@
+This repository contains a JavaScript code example demonstrating an uncommon bug involving unexpected null return values. The `foo` function is intended to add two numbers, but it incorrectly returns `null` when both inputs are 0. The solution provides a corrected version of the function.
